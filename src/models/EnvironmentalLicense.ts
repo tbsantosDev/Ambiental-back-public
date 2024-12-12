@@ -46,4 +46,4 @@ export const EnvironmentalLicense = sequelize.define<EnvironmentalLicenseInstanc
   },
 })
 
-/* await EnvironmentalLicense.sync({ alter: true }); */
+/* await sequelize.sync({ alter: true }); */
