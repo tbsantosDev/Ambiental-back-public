@@ -1,0 +1,8 @@
+/* {
+    "extends": [
+      "plugin:require-extensions/recommended"
+    ],
+    "plugins": [
+      "require-extensions"
+    ]
+  } */
